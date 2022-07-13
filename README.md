@@ -7,3 +7,6 @@ Projeto de filmes com #vite #reactjs #api do TMDB
 - Criação página Home (CSS, GET API, JSX)
 - Trabalhando CSS das páginas Home e Movie
 - Criando evento de busca de filmes
+- Trabalhando com useEffect na busca
+- Busca de filmes finalizada (search)
+- Criando pagina de detlahes dos filmes
