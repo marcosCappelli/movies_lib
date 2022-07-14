@@ -1,5 +1,5 @@
 # movies_lib
-Projeto de filmes com #vite #reactjs #api do TMDB
+Projeto de filmes com react e api do TMDB (react router, react hooks)
 - Criando API do TMDB
 - Criado projeto react & vite
 - Criado pasta .env e configurada
@@ -10,3 +10,6 @@ Projeto de filmes com #vite #reactjs #api do TMDB
 - Trabalhando com useEffect na busca
 - Busca de filmes finalizada (search)
 - Criando pagina de detlahes dos filmes
+- Finalizado página de detalhes de filme 
+- concluido CSS pagina Movie
+- Projeto finalizado
